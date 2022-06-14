@@ -1,0 +1,87 @@
+*INTRODUCTION TO DATA STRUCTURES AND ALGORITHMS*
+
+Before going to understand the concept of Data structures and Algorithms 
+
+One should understand what is the definition of Data, Data structure and Algorithm 
+
+*What is Data, Data structure, Algorithm?*
+*DATA*
+Data is the collection of raw data items such as  symbols(@#$%&-+()*"':;!?... Etc), characters(a... z, A... Z, numbers(0, 1... 9)
+
+Data becomes information and other data items such as Strings, Words, if it is a integer data it becomes real number, floating point and complex numbers also other data items  when there is the collection of such symbols, characters, numbers,
+
+*Example*
+
+Here the we are having the collection of characters which are the raw data items 
+
+In my example collection of characters becomes information and other data items with some changes such as strings, words, other type of numbers from the integers such as decimals and floating point and complex numbers  in the following way 
+
+Data I have is the collection of  single character data items 
+
+Data item1:*h*
+Data item2:*e*
+Data item3:*l*
+Data item4:*l*
+Data item5:*o*
+
+As we know collection of data items becomes information and other data items such as Strings, words, etc etc 
+Here we have *taken* a *character data item* it becomes *string*
+String =data item1+data item 2+data item3+data item 4+data item 5= *h+e+l+l+o*= *hello*
+
+
+*EXAMPLE-2*
+Data becomes information in the following way here we have the strings as a data items 
+Dataitem1(String1):hello
+DataItem2(String2):friends
+DataItem3(String3):Welcome 
+
+DataItem4(String4):To
+DataItem5(String5):DSA
+
+Information=DataItem1(String1)+DataItem2(String2)+DataItem3(String3)+DataItem4(String4)+DataItem5(String5)
+= *hello+friends+Welcome+To+DSA*
+
+hellofriendsWelcomeToDSA
+
+here we can observe that there is no space between the data items since the space is also considered as the data item in our Electronic Devices such as Laptops, personal Computers, Mobiles etc etc 
+
+
+*DATA STRUCTURE*
+
+
+Data Structure  is a *systematic way* of *organizing* *storing* and *accessing* of data.
+
+A data structure tries to structure data!
+Usually more than one piece of data
+
+*Example:*
+If we take one of the most known data structure  as example which is *ARRAY* the array data structure holds or store the data items of similar data type in the continuous memory locations 
+
+Here the systematic way of storing the elements on array is contiguous memory locations
+
+
+*ALGORITHM*
+Algorithm is the Step by Step procedure  to solve some problem basically the Computational Problem here 
+(or)
+Algorithm is the Template of computational steps that should be taken to accomplish a computational problems, computational needs 
+
+Example:
+*Searching Algorithms*
+As we know data structure is the collection of data items  these algorithms will help to search particular data item in data structures 
+*example of searching algorithms*
+1)Binary Search
+2)Linear Search 
+etc 
+*Sorting Algorithms*
+Suppose in our data structure we have stored data items in some order or no order we need to rearrange the data items that we have stored these algorithms will help us 
+
+*Example of sorting algorithms*
+1)Bubble Sort
+2)Insertion Sort
+3)ReverSort
+etc etc 
+ 
+Reversal Algorithms 
+Insertion Algorithms 
+Deletion Algorithms 
+etc 
