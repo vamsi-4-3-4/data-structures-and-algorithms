@@ -1,0 +1,152 @@
+*TYPES OF DATA STRUCUTRES*
+
+Data structures was classified  into many types based on the various cases 
+
+We have the following data structures 
+*1)primitive-data strucutres*
+*2)Non primitive data structures*
+*3)Linear Data Structures*
+*4)Non-Linear Data Structures*
+
+*1.PRIMITIVE DATA STRUCTURES*
+primitive data structures  are the basic data types in our programming language 
+ 
+By using this primitive data structures (basic data types) we construct some other data types 
+
+*EXAMPLES*
+1)Integers
+2)Floating-point numbers
+3)Boolean 
+4)Character
+5)pointer
+
+*2. NON-PRIMITIVE DATA STRUCTURES*
+Non primitive data structures are used to build other complex storages
+Non- primitive data structures are further classified into two types
+1. Linear data structures
+2.  Nonlinear data structures
+
+
+
+*3.LINEAR DATA STRUCTURES*
+If the elements of the particular data structures are arranged in the sequence order then those type of data structures are called as linear data structures
+*EXAMPLES*
+1) *ARRAYS*
+2) *LISTS*
+*4. NON-LINEAR DATA STRUCTURES*
+ If the elements of the particular Data Structure are stored without any sequence order then those type of data structures are called as non linear data structures
+
+1) *GRAPHS*
+2) *TREES*
+3) *HASH BASED DATA STRUCURES*
+
+
+
+
+*TYPES OF ALGORITHMS*
+Unlike the data structures algorithm are field specific. 
+
+In the  computer science we have the algorithms for the many fields. 
+
+In this list I am not going to give the complete fields but I was decided to give the algorithms related to the major  roles in the computer science
+
+*Graph Data Structure related algorithms*
+
+*sub-Graph related algorithms*
+
+
+
+ *Sequence related algorithms*
+
+*Subsequence related algorithms*
+
+*substring related algorithms*
+
+*abstract algebra algorithms*
+
+*computer algebra algorithms*
+
+*geometry algorithms*
+
+*number theory algorithms*
+
+*differential equation solving algorithms*
+
+*interpolation and extrapolation algorithms*
+
+*linear algebra algorithms*
+
+*numerical integration algorithms*
+
+*route finding algorithms*
+
+*optimization algorithms*
+
+We have the various algorithms related to  *astronomy*  *physics* *bioinformatics* *geo science*  *Linguistics*  *Medicine*  *Statistics*
+
+*Computer architecture algorithms*
+
+*Computer graphics Algorithms*
+
+*Cryptography Algorithms*
+
+
+*Digital logic Algorithms*
+
+*Machine learning and statistical classification Algorithms*
+
+*Programming language theory Algorithms*
+
+*Quantum Algorithms*
+
+*Theory of computation and automata Algorithms*
+
+*Error detection and correction Algorithms*
+
+*Lossless compression algorithms*
+
+*Lossy compression algorithms*
+
+
+*Digital signal processing Algorithms*
+
+
+*Image Processing Algorithms*
+
+
+*Software Engineering Algorithms*
+
+*Database Algorithms*
+
+*Distributed Systems Algorithms*
+
+*Memory allocation and deallocation algorithms*
+
+*Networking Algorithms*
+
+
+*Operating System Algorithms*
+
+
+*Process synchronization Algorithms*
+
+*Task Scheduling Algorithms*
+
+*I/O scheduling Algorithms*
+
+
+*Disk scheduling Algorithms*
+
+
+*Path Finding Algorithms*
+
+
+*Network analysis Algorithms*
+
+*Link analysis Algorithms*
+
+*Web link Analysis Algorithms*
+
+*Flow analysis Algorithms*
+
+*graph routing Algorithms*
