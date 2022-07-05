@@ -1,5 +1,6 @@
-APPLICATIONS OF VARIOUS DATA STRUCUTRES
-
+************************************************
+||| APPLICATIONS OF VARIOUS DATA STRUCUTRES  |||
+-------------------------------------------------
 This will cover the following
 1)why one should learn Data Structures and Algorithms?
 
@@ -7,7 +8,9 @@ This will cover the following
 1)If you love to solve the real world problems you must understand the concepts of DATA STRUCUTRES AND ALGORITHMS
 3)I personally observed that  Every software product is built,maintained,updated with the help of the Data Structures and Algithms 
 here are the few examples:
+
 1)ARRAY DATA STRUCUTRE
+
 1)contacts that was stored in our SmartPhone or MobilePhone
 2)Leader-Board management on the Games
 3)Image Processing Applications
@@ -33,13 +36,16 @@ Merge Sort
 3)Polynomial Implementation
 4)Round Robin in Operating Systems
 
-5)CIRCULAR LINKED LIST 
+3)CIRCULAR LINKED LIST 
+
 for showing slides in the presentation applications 
 for showing images in the Album and Photos applications
 6)ALT+TAB feature in the Windows Operating System
 7)Browse through opened applications  to select a required application  to work again
 8)We use the doubly LinkedList for the Forward and Backward button implementations
-9)CIRCULAR QUEUE
+
+4)CIRCULAR QUEUE
+
 Maintains playing sequence of multiple players in a multiplayer games
 10)web pages to show the  URL`s(Uniform Resource Locators)
 11)Symbol table management of a complier
@@ -49,7 +55,9 @@ Maintains playing sequence of multiple players in a multiplayer games
 15)To represent deck of cards in a  cards game
 16)To represent the stages of the game
 17)To implement snake games
-3)STACKS
+
+5)STACKS
+
 1)Used as a Temporary storage structure for the recursive operations
 2)used as a Auxiliary storage structure for nested operations and the function calls,defered or postponed functions
 3)used to manage function calls
@@ -69,7 +77,11 @@ To show the photos on Google photos
 To show the  Downloads of an Youtube
 To show the Notifications of an Mobile Phone or Smart Phone
 15)Scratch Cards schemes
-4)QUEUES
+
+
+6)QUEUES
+
+
 1)Breadth First Search traversal implementation
 2)Job scheduler of an OperatingSystem
 To implement Buffer Queue
@@ -85,7 +97,10 @@ To implement Keyboard Buffer Queue
 11)uploading and downloading of files
 12)Internet Requests Processinng
 13)Switching multiple operations
-5)TREES
+
+7)TREES
+
+
 1)File systems and Directories
 2)Navigation structure of a website
 3)code generator for Hauffmans code
@@ -101,7 +116,11 @@ To implement Keyboard Buffer Queue
 13)indexing in an DataBases
 14)DNS
 15)BST in computer Graphics
-6)GRAPHS
+
+
+8)GRAPHS
+
+
 1)Representing networks and routes in communications and transportation
 2)routes in GPS
 3)interconnections in social Media
@@ -109,12 +128,17 @@ To implement Keyboard Buffer Queue
 5)document link map of a website to display connection between pages through hyperlinks
 6)robotic motion and neural networks
 7)data organization
-7)HASHTABLES
+
+9)HASHTABLES
+
+
 1)Data stored in a databases
 2)search filtering
 3)message digest in the Cryptography
 4)filename and filepath connections
-8)HEAP
+
+10)HEAP
+
 1)Matrix
 2)sesmic surveys in geology
 3)plotting of graphs
